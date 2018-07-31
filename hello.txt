@@ -1,1 +1,2 @@
 Hello Dimon
+I know something about python. It`s nice.
