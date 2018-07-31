@@ -1,2 +1,2 @@
 Hello Dimon
-I know something about python. It`s nice.
+I know something about java script. It`s nice.
