@@ -1,3 +1,5 @@
 Hello Dimon
-I know something about python. It`s nice.
+I know something about python. It`s nice. 
+Yet I know some about JS.
 Something new???
+
